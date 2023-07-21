@@ -1,7 +1,7 @@
-# Uniesp_LogicadeProgramacao
+# TRILHA DE FORMAÇÃO RPA - COMPASS UOL 
 
-Especialização em Desenvolvimento Backend 2023.1
+CURSO PYTHON - UDEMY
 
-Matéria: Introdução a Lógica de Programação
+Matéria: Python
 
-Professor: Messias Batista
+Exercícios resolvidos
